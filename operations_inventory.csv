@@ -1,0 +1,5 @@
+item_id,item_name,category,stock_level,status
+INV001,Laptop Fleet,Hardware,120,Available
+INV002,VPN Licenses,Software,45,Low
+INV003,Security Tokens,Security,300,Available
+INV004,Cloud Servers,Infrastructure,18,Critical

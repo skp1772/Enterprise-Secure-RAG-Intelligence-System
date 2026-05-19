@@ -1,0 +1,6 @@
+transaction_id,department,amount,vendor,status
+TXN001,Engineering,15000,CloudTech,Approved
+TXN002,Finance,22000,AuditCorp,Pending
+TXN003,HR,5000,RecruitPro,Approved
+TXN004,Engineering,45000,InfraSystems,Approved
+TXN005,Finance,12000,SecurePay,Rejected
