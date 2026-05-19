@@ -1,0 +1,12 @@
+[
+  {
+    "service": "employee_service",
+    "response_time_ms": 320,
+    "status": 200
+  },
+  {
+    "service": "finance_service",
+    "response_time_ms": 890,
+    "status": 500
+  }
+]

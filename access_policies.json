@@ -1,0 +1,6 @@
+{
+  "HR": ["hr"],
+  "Finance": ["finance"],
+  "Engineering": ["engineering"],
+  "Admin": ["hr", "finance", "engineering", "logs", "compliance"]
+}
