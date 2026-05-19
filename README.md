@@ -194,38 +194,6 @@ Gemini generates answers strictly from authorized retrieved context.
 
 ---
 
-# Example Queries
-
-## Authorized Query
-
-```text
-User: alice
-Query: What is the leave policy?
-```
-
-### Result
-
-* HR policy retrieved
-* Authorized response generated
-* Citations returned
-
----
-
-## Unauthorized Query
-
-```text
-User: alice
-Query: Show finance transactions
-```
-
-### Result
-
-```text
-Access denied or no relevant authorized data found.
-```
-
----
-
 # Hallucination Prevention
 
 The system minimizes hallucinations using:
