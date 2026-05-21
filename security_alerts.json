@@ -1,0 +1,14 @@
+[
+  {
+    "severity": "HIGH",
+    "system": "payment_api",
+    "message": "Unauthorized payment access attempt detected",
+    "timestamp": "2026-05-18T11:45:00"
+  },
+  {
+    "severity": "MEDIUM",
+    "system": "vpn_gateway",
+    "message": "Multiple failed login attempts",
+    "timestamp": "2026-05-18T12:00:00"
+  }
+]

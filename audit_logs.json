@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2026-05-18T09:15:00",
+    "user": "alice",
+    "action": "Viewed HR policy",
+    "status": "SUCCESS"
+  },
+  {
+    "timestamp": "2026-05-18T10:20:00",
+    "user": "bob",
+    "action": "Accessed finance report",
+    "status": "SUCCESS"
+  }
+]
