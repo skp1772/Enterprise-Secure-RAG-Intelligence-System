@@ -219,7 +219,7 @@ The system minimizes hallucinations using:
 ## Clone Repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone <git clone https://github.com/skp1772/Enterprise-Secure-RAG-Intelligence-System.git>
 ```
 
 ## Create Virtual Environment
