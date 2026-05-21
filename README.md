@@ -279,10 +279,3 @@ This project demonstrates practical understanding of:
 * LLM grounding strategies
 * Multi-source enterprise retrieval
 
----
-
-# Author
-
-Ridhi P
-
-AI/ML • Data Science • Generative AI
