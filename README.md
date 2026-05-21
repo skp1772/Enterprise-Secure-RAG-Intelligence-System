@@ -105,8 +105,6 @@ enterprise_rag_challenge/
 ├── notebooks/
 │   └── rag.ipynb
 │
-├── outputs/
-│
 ├── users.json
 ├── access_policies.json
 ├── requirements.txt
